@@ -25,6 +25,6 @@ a:hover, a:active {
 		<br>
 	<a href="DeleteCustomer.jsp"> Delete Customer</a><br>
 	<br>
-	<a href="searchUser.jsp">Search customer</a>
+	<a href="searchUser.jsp">Search customers</a>
 </body>
 </html>
