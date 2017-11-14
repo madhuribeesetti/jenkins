@@ -17,7 +17,7 @@ a:hover, a:active {
 }
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>IndexPage</title>
 </head>
 <body align="center">
 <<<<<<< HEAD
