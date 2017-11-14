@@ -17,13 +17,13 @@ a:hover, a:active {
 }
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>IndexPage</title>
 </head>
 <body align="center">
 <h1>Welcome to this Banking Application</h1>
-	<a href="Customer.jsp">Create Customer</a><br>
+	<a href="Customer.jsp">Create Customers</a><br>
 		<br>
-	<a href="DeleteCustomer.jsp"> Delete Customer</a><br>
+	<a href="DeleteCustomer.jsp"> Delete Customers</a><br>
 	<br>
 	<a href="searchUser.jsp">Search customers</a>
 </body>
