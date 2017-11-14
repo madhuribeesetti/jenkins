@@ -20,11 +20,15 @@ a:hover, a:active {
 <title>Insert title here</title>
 </head>
 <body align="center">
+<<<<<<< HEAD
 <h1>Welcome to the Banking Application</h1>
+=======
+<h1>Welcome to this Banking Application</h1>
+>>>>>>> 05a38096da9921b88712efe1f56bb9aa3e2cf88a
 	<a href="Customer.jsp">Create Customer</a><br>
 		<br>
 	<a href="DeleteCustomer.jsp"> Delete Customer</a><br>
 	<br>
-	<a href="searchUser.jsp">Search customer</a>
+	<a href="searchUser.jsp">Search customers</a>
 </body>
 </html>
