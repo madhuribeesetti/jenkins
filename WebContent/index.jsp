@@ -20,7 +20,8 @@ a:hover, a:active {
 <title>IndexPage</title>
 </head>
 <body align="center">
-<h1>Welcome to this Banking Application</h1>
+<h1>Banking Application</h1>
+<h5>Welcome to this Application</h5>
 	<a href="Customer.jsp">Create Customers</a><br>
 		<br>
 	<a href="DeleteCustomer.jsp"> Delete Customers</a><br>
